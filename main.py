@@ -8,7 +8,6 @@ import pandas as pd
 import numpy as np
 from fastdist import fastdist
 import random as rd
-from sklearn.datasets import make_blobs
 import itertools
 
 st.set_page_config(layout="wide", )
